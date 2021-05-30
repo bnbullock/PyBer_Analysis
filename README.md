@@ -18,14 +18,14 @@
 
  The dataframe shows the majority of income is tied to our urban clients and drivers and it appears that this demographic is being well served by Pyber. However, this groups also has the smallest average fare per ride and per driver. For rural communities, they have the smallest income but produces the highest fare averages per rider and per driver. Suburban communities fall somewhere in between these other groups.
 
-![Summary Dataframe](Resources/Images/Pyber_Summary.png)
+![Summary Dataframe](Resources/images/Pyber_Summary.png)
 
 
 ### Analysis of Deliverable 2
 
  The charts again identifies that our urban clients are most responsible for the income at Pyber. Where the rural fares are considerably lower on a monthly basis. The monthly fare incomes amongst the threee communities appears to all have different patterns based on the chart.
 
-![Fare Summary](Resources/Images/PyBer_fare_summary.png)
+![Fare Summary](Resources/images/PyBer_fare_summary.png)
 
 
 ## Overall Summary
