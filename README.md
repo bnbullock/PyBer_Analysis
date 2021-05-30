@@ -30,7 +30,7 @@
 
 ## Overall Summary
 
- It can be seen that rural communities are likely underserved and need more access to ride sharing services from Pyber. Also, our urban drivers have the lowest fare per driver which might indicate that there are too many drivers in urban cities. If we were to decrease the number of urban drivers, we can proportionally increase the fares to keep revenue at the current levels. Therefore, the following recommendations are a direct result of the data analysis and visualizations prepared for this project.
+ Based on the analysis, we can see that rural communities are likely underserved and need more access to ride sharing services from Pyber. Also, our urban drivers have the lowest fare per driver which might indicate that there are too many drivers in urban cities. If we were to decrease the number of urban drivers, we can proportionally increase the fares to keep revenue at the current levels. Therefore, the following recommendations are a direct result of the data analysis and visualizations prepared for this project.
 
 - Recommendations:
   1. Decrease the number of urban drivers
