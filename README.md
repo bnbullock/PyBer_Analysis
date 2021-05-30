@@ -2,11 +2,11 @@
 
 ## Project Overview
 
- Pyber is a ridesharing app company that is looking to perform exploratory analaysis on different data files containing ridership and revenue data. Specifically, we want to create visualizations and analysis that can tell a story about the data. This will help Pyber improve access to ride sharing services and determie affordability for under served communities. With this goal in mind, we will be anlayzing ride sharing data from January to early May of 2019 and providing analysis and recommendations based on the results. The following deliverables fall within the scope of this analysis.
+ Pyber is a ridesharing app company that is looking to perform exploratory analysis on different data files containing ridership and revenue data. Specifically, we want to create visualizations and analysis that can tell a story about the data and present the findings to the CEO. This analysis will be used to help Pyber improve access to ride sharing services and determie affordability for under served communities. As such, we will be anlayzing this ride sharing data from January to April of 2019 and providing analysis and recommendations based on the results observed. The following deliverables fall within the scope of this analysis.
 
 - Deliverables:
-1. Summary dataframe that shows the relationship between the type of city and the number of drivers and riders as it relates to fares
-2. Create a multi-line graph showing total weekly fares for each city type
+  1. Construct a summary dataframe that shows the relationship between the type of city and the number of drivers and riders as it relates to fares.
+  2. Create a multi-line chart showing total revenue for each city type
 
 ## Resources
 - Data Source: city_data.csv, ride_data.csv
@@ -16,14 +16,14 @@
 
 ### Analysis of Deliverable 1
 
- The dataframe shows the majority of income is tied to our urban clients and drivers and it appears that the city's demographic is being well served by the ride sharing services of Pyber. However, this groups also has the smallest average fare per ride and also per driver which might indicate that we have more urban drivers than are necessary. For rural communities, they have the smallest revenue but produces the most profitable revenue in fare averages per rider and per driver. Suburban communities fall somewhere in between these other groups and appears to be in more of a sweet spot with fares and and drivers with respect to the total ride sharing services provided by Pyber.
+ The dataframe shows the majority of income is tied to our urban clients and drivers and it appears that the city's demographic is being well served by the ride sharing services of Pyber. However, this groups also has the smallest average fare per ride and also per driver which might indicate that we have more urban drivers than are necessary. For rural communities, they have the smallest revenue but produces the most profitable revenue in fare averages per rider and per driver. Suburban communities fall somewhere in between these other groups and appears to be in more of a sweet spot with fares and drivers with respect to the total ride sharing services provided by Pyber.
 
 ![Summary Dataframe](Resources/images/Pyber_Summary.png)
 
 
 ### Analysis of Deliverable 2
 
- The chart below again identifies that our urban clients are most responsible for the income at Pyber. Where the rural fares are considerably lower on a monthly basis. The monthly fare revenue amongst the threee communities appears to all have different patterns based on the chart with not much corelation. It would be beneficial for Pyber to focus on increasing ride sharing services to rural communities right away and to a lesser extent suburban communities as well. Pyber also needs to maintain or increase if possible the revenue from urban communities in general.
+ The chart below again identifies that our urban clients are most responsible for the income at Pyber. Where the rural fares are considerably lower on a monthly basis. The monthly fare revenue amongst the threee communities appears to all have different patterns based on the chart with not much corelation. It would be beneficial for Pyber to focus on increasing ride sharing services to rural communities right away and to a lesser extent suburban communities as well. Pyber also needs to maintain service levels or increase the revenue from urban communities if possible.
 
 ![Fare Summary](Resources/images/PyBer_fare_summary.png)
 
